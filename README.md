@@ -61,7 +61,7 @@ I want to become a professional developer and build useful and modern websites.
 
 ## 📊 GitHub Stats and activity graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&count_private=true)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=tokyo-night)
