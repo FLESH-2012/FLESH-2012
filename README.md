@@ -1,10 +1,7 @@
 
-Assalomu alaykum! | Hi There!
+# Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
-Men Shahriyor Aminboyevman — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.
-I'm  Shahriyor Aminboyev — a young developer who loves learning and building creative web projects.
----
-
+### 👨‍💻 Front-end Dasturchi | Front-end Developer
 ### 🧩 Men haqimda | About Me
 - 👋 Men Shahriyor — web dasturlashga qiziqadigan va yangi loyihalar yaratishni yaxshi ko'radigan yosh dasturchiman.
 - 🚀 **Maqsadim:** Har kuni yangi narsa o‘rganish va foydali saytlar yaratish orqali freelancerlik bilan shug'ullanish.
