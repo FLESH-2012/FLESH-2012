@@ -81,8 +81,8 @@
 ---
 
 ### 📫 Aloqa | Contact
-- 📞 **Telefon:** [+998 77 043 77 88](tel:+998770437788) - 📢 **Telegram:** [t.me/S_A_M_2012](https://t.me/S_A_M_2012)
-- 📸 **Instagram:** [shahriyor_developer](https://instagram.com/shahriyor_developer)
+- 📞 **Telefon:** [+998 77 043 77 88](tel:+998770437788)
+- 📸 **Instagram:** [shahriyor_developer](https://www.instagram.com/shahriyor_developers?igsh=Zjh5cWxncmhmeGdk)
 - 📧 **Email:** [shahriyoraminboyev002@gmail.com](mailto:shahriyoraminboyev002@gmail.com)
 
 ---
