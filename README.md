@@ -64,8 +64,7 @@ I want to become a professional developer and build useful and modern websites.
 ---
 
 ## 📊 GitHub Stats and activity graph
-
-![snake github contribution grid snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=tokyo-night)
