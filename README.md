@@ -15,3 +15,15 @@
 ### 📊 GitHub Statistikalarim:
 ![Shahriyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=dark&hide_border=true)
+![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
+![Shahriyor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=dark)
+# Salom, men Shahriyor! 👋
+
+### 📊 GitHub Statistikalarim:
+![Shahriyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=dark&hide_border=true)
+
+### 🔥 Faoliyat Grafigi:
+![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
+
+### 🚀 Ketma-ketlik (Streak):
+![Shahriyor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=dark)
