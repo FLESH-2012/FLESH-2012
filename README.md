@@ -1,7 +1,7 @@
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shahriyor&fontSize=90" />
+  <img src="" width="150" height="150" style="border-radius: 50%; border: 2px solid cyan;">
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)
