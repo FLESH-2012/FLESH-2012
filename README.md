@@ -83,7 +83,7 @@
 
 ### 📫 Aloqa | 
 - 📸 **Instagram:** [shahiyor_developers](https://instagram.com/shahriyor_developers)
-- 💼 **LinkedIn:** ()
+- 💼 **LinkedIn:** (https://www.instagram.com/shahriyor_developers?igsh=Zjh5cWxncmhmeGdk)
 
 ---
 <p align="center">
