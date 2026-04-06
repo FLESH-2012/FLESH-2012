@@ -81,9 +81,8 @@
 
 ---
 
-### 📫 Aloqa | Contact
-- 📢 **Telegram:** [t.me/S_A_M_2012](https://t.me/S_A_M_2012)
-- 📸 **Instagram:** [shahriyor_aminboyev](https://instagram.com/shahriyor_aminboyev)
+### 📫 Aloqa | 
+- 📸 **Instagram:** [shahr.iyor_225](https://instagram.com/shahr.iyor_225)
 - 💼 **LinkedIn:** (Profil ochgan bo'lsangiz link qo'ying)
 
 ---
