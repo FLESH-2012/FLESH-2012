@@ -82,8 +82,8 @@
 ---
 
 ### 📫 Aloqa | 
-- 📸 **Instagram:** [shahr.iyor_225](https://instagram.com/shahr.iyor_225)
-- 💼 **LinkedIn:** (Profil ochgan bo'lsangiz link qo'ying)
+- 📸 **Instagram:** [shahiyor_developers](https://instagram.com/shahriyor_developers)
+- 💼 **LinkedIn:** ()
 
 ---
 <p align="center">
