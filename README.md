@@ -1,4 +1,5 @@
 
+Shahriyor_Aminboyev (FLESH-2012) 
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
 ### 👨‍💻 Front-end Dasturchi | Front-end Developer
