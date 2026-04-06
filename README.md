@@ -24,7 +24,7 @@
 ---
 
 ### 💻 Dasturlash yo‘nalishim | My Development Path
-* 🌐 **Frontend:** HTML, CSS, JavaScript (Responsive saytlar ustida ishlayapman).
+* 🌐 **Frontend:** HTML, CSS,(saytlar ustida ishlayapman).
 * 🐍 **Backend:** Python (Asosiy tushunchalar va sodda scriptlar).
 * ⚙️ **Version Control:** Git & GitHub orqali kodni boshqarish va loyihalarni deploy qilish.
 
