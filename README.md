@@ -1,10 +1,10 @@
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
 <div align="center">
-  <img src="Sizning_Rasm_Linkingizni_Shu_Yerga_Qo'ying" 
-       width="180" 
-       height="180" 
-       style="border-radius: 50%; object-fit: cover; border: 4px solid #00d2ff; display: block;">
+  <img src="BU_YERGA_RASMINGIZ_LINKINI_QOYING" 
+       width="200" 
+       height="200" 
+       style="border-radius: 50%; object-fit: cover; display: block; margin-bottom: 20px; border: 4px solid #00d2ff;">
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)
