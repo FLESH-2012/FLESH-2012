@@ -1,4 +1,4 @@
-
+https://avatars.githubusercontent.com/u/240902781?s=400&u=9ca8d67426a8be0aa86466ac4837091abde05ff1&v=4
 
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
