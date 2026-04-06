@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salom, men Shahriyor! 👋
 
-<!--
-**FLESH-2012/FLESH-2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Front-end Dasturchi
 
-Here are some ideas to get you started:
+- 🚀 Hozirda HTML, CSS va UI/UX dizaynlarini o'rganyapman.
+- 🛠 Loyihalarimda Git va GitHub-dan faol foydalanaman.
+- 🔭 Maqsadim: Kuchli dasturchi bo'lib yetishish va chiroyli interfeyslar yaratish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Texnologiyalar va Instrumentlar:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📊 GitHub Statistikalarim:
+![Shahriyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=dark&hide_border=true)
