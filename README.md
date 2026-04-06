@@ -1,4 +1,4 @@
-# Salom, men [Ismingiz]! 👋
+# Salom, men [Shahriyor]! 👋
 
 ### 👨‍💻 Web Dasturchi (Front-end)
 
