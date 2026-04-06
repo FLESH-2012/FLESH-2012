@@ -1,10 +1,8 @@
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
 <p align="center">
-  <img src="<p align="center">
-  <img src=" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #6e5494;">
-</p>" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #6e5494;">
-</p>****
+  <img src="" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #6e5494;">
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)
 
