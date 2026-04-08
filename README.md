@@ -69,9 +69,7 @@
 
 ![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=vision-friendly-dark)
-
----
+![FLESH-2012 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&langs_count=8&layout=compact&theme=dracula)
 
 ---
 
