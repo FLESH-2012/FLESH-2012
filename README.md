@@ -1,7 +1,11 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F710F7&center=true&vCenter=true&width=435&lines=Salom+men+Shahriyor;Learner;Future+Web+Developer" alt="Typing SVG" />
+</div>
 
-# Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 ![Visitors](https://komarev.com/ghpvc/?username=FLESH-2012&color=blueviolet&style=flat-square&label=PROFILGA+TASHRIFLAR)
+
 [![Followers](https://img.shields.io/github/followers/FLESH-2012?label=Follow&style=social)](https://github.com/FLESH-2012)
+
 [![Stars](https://img.shields.io/github/stars/FLESH-2012?style=social)](https://github.com/FLESH-2012)
 
 <p align="center">
@@ -56,10 +60,11 @@
 
 ### 🛠️ Texnologiyalar & Ko'nikmalar | Tech & Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -74,6 +79,8 @@
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FLESH-2012&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Shahriyor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FLESH-2012&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 📫 Aloqa | Contact
@@ -83,10 +90,9 @@
 
 ---
 
+![Quote](https://github-readme-quotes.vercel.app/quote?theme=radical&layout=google)
+
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="IT Quotes" />
-</p>
 
 <p align="center">
   <i>"Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir xatolik — o‘sish uchun imkoniyatdir."</i>
