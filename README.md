@@ -1,5 +1,8 @@
 
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
+![Visitors](https://komarev.com/ghpvc/?username=FLESH-2012&color=blueviolet&style=flat-square&label=PROFILGA+TASHRIFLAR)
+[![Followers](https://img.shields.io/github/followers/FLESH-2012?label=Follow&style=social)](https://github.com/FLESH-2012)
+[![Stars](https://img.shields.io/github/stars/FLESH-2012?style=social)](https://github.com/FLESH-2012)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Shahriyor&fontSize=90" />
@@ -69,7 +72,7 @@
 
 ![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=FLESH-2012&theme=monokai)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FLESH-2012&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
