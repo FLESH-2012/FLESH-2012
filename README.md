@@ -77,20 +77,12 @@
 
 ![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=FLESH-2012&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Shahriyor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FLESH-2012&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Aloqa | Contact
 - 📞 **Telefon:** [+998 77 043 77 88](tel:+998770437788)
 - 📸 **Instagram:** [shahriyor_developer](https://www.instagram.com/shahriyor_developers?igsh=Zjh5cWxncmhmeGdk)
 - 📧 **Email:** [shahriyoraminboyev002@gmail.com](mailto:shahriyoraminboyev002@gmail.com)
-
----
-
-![Quote](https://github-readme-quotes.vercel.app/quote?theme=radical&layout=google)
 
 ---
 
