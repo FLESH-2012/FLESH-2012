@@ -63,11 +63,13 @@
 
 ### 📊 GitHub Statistika | GitHub Stats
 
-![FLESH-2012 GitHub stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=dark)
 
 ### 📈 Faoliyat Grafigi | Activity Graph
 
 ![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=vision-friendly-dark)
 
 ---
 
