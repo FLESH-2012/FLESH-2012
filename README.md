@@ -62,19 +62,12 @@
 ---
 
 ### 📊 GitHub Statistika | GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+
+![FLESH-2012 GitHub stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=radical)
 
 ### 📈 Faoliyat Grafigi | Activity Graph
-![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
 
-### 🏆 Yutuqlar va Streak | Achievements & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FLESH-2012&theme=midnight-purple" width="48%" />
-</p>
+![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
 
 ---
 
