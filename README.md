@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full-stack+Developer+in+Progress..;Blogger;Learner)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&width=435&lines=Python+va+JavaScript+ishqibozi;Backend+yo'nalishida+mutaxassis;Doim+izlanishdaman...)
 
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
