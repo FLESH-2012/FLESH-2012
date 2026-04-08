@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F710F7&center=true&vCenter=true&width=435&lines=Salom+men+Shahriyor;Learner;Future+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F710F7&center=true&vCenter=true&width=435&lines=Coder;Learner;Future+Web+Developer" alt="Typing SVG" />
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=FLESH-2012&color=blueviolet&style=flat-square&label=PROFILGA+TASHRIFLAR)
