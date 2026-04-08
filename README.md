@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&width=435&lines=Python+va+JavaScript+ishqibozi;Backend+yo'nalishida+mutaxassis;Doim+izlanishdaman...)![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&width=435&lines=HTML5+va+CSS3+o'rganuvchisi;Frontend+Developer+in+Progress;Loyihalar+ustida+ishlamoqdaman...)
 
 # Salom, men Shahriyor! | Hi, I'm Shahriyor! 👋
 
