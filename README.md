@@ -8,14 +8,7 @@
 
 [![Stars](https://img.shields.io/github/stars/FLESH-2012?style=social)](https://github.com/FLESH-2012)
 
-- name: generate github-contribution-grid-snake.svg
-  uses: Platane/snk/svg-only@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#00FF00&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
----
 
 ### 🧩 Men haqimda | About Me
 - 👋 **Assalomu alaykum!** Men Shahriyor — web dasturlashga qiziqadigan va doim yangilikka intiluvchi yosh dasturchiman.
