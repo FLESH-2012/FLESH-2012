@@ -11,6 +11,8 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/240902781?s=400&u=9ca8d67426a8be0aa86466ac4837091abde05ff1&v=4" width="200" style="border-radius: 50%;">
 </p>
+
+
 --
 ![github contribution grid snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)  
 ### 🧩 Men haqimda | About Me
