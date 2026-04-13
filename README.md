@@ -15,6 +15,25 @@
 
 --
 ![github contribution grid snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)  
+
+--
+---
+
+### 📊 Mening statistikalarim | My Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=tokyonight" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
 ### 🧩 Men haqimda | About Me
 - 👋 **Assalomu alaykum!** Men Shahriyor — web dasturlashga qiziqadigan va doim yangilikka intiluvchi yosh dasturchiman.
 - 🚀 **Maqsadim:** Har kuni yangi bilim olish, murakkab loyihalar yaratish va kelajakda kuchli mutaxassis bo'lish.
