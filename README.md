@@ -8,17 +8,12 @@
 
 [![Stars](https://img.shields.io/github/stars/FLESH-2012?style=social)](https://github.com/FLESH-2012)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Shahriyor&fontSize=90" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/FLESH-2012.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 5px solid #00d2ff; display: block; margin: 0 auto;">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+- name: generate github-contribution-grid-snake.svg
+  uses: Platane/snk/svg-only@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#00FF00&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
 ---
 
