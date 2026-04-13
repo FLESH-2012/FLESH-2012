@@ -8,8 +8,9 @@
 
 [![Stars](https://img.shields.io/github/stars/FLESH-2012?style=social)](https://github.com/FLESH-2012)
 
-https://avatars.githubusercontent.com/u/240902781?s=400&u=9ca8d67426a8be0aa86466ac4837091abde05ff1&v=4
-
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/240322761?v=4" width="200" style="border-radius: 50%;">
+</p>
 ### 🧩 Men haqimda | About Me
 - 👋 **Assalomu alaykum!** Men Shahriyor — web dasturlashga qiziqadigan va doim yangilikka intiluvchi yosh dasturchiman.
 - 🚀 **Maqsadim:** Har kuni yangi bilim olish, murakkab loyihalar yaratish va kelajakda kuchli mutaxassis bo'lish.
