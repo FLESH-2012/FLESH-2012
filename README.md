@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F710F7&center=true&vCenter=true&width=435&lines=Coder;Learner;Future+Web+Developer" alt="Typing SVG" />
-</div>
 
-![Visitors](https://komarev.com/ghpvc/?username=FLESH-2012&color=blueviolet&style=flat-square&label=PROFILGA+TASHRIFLAR)
-
-[![Followers](https://img.shields.io/github/followers/FLESH-2012?label=Follow&style=social)](https://github.com/FLESH-2012)
-
-[![Stars](https://img.shields.io/github/stars/FLESH-2012?style=social)](https://github.com/FLESH-2012)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/240902781?s=400&u=9ca8d67426a8be0aa86466ac4837091abde05ff1&v=4" width="200" style="border-radius: 50%;">
