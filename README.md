@@ -1,82 +1,67 @@
 
 
+<h1 align="center">Hi 👋, I'm Shahriyor</h1>
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/240902781?s=400&u=9ca8d67426a8be0aa86466ac4837091abde05ff1&v=4" width="200" style="border-radius: 50%;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+CSS+JavaScript;UI+Designer;Always+Learning🚀" />
 </p>
 
-
---
-![github contribution grid snake animation](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg)  
-
---
----
-
-
----
-### 🧩 Men haqimda | About Me
-- 👋 **Assalomu alaykum!** Men Shahriyor — web dasturlashga qiziqadigan va doim yangilikka intiluvchi yosh dasturchiman.
-- 🚀 **Maqsadim:** Har kuni yangi bilim olish, murakkab loyihalar yaratish va kelajakda kuchli mutaxassis bo'lish.
-- 💡 *“Har bir satr kod — bu yangi imkoniyat!”* — mening shiorim.
-- 👨‍💻 **Hozirgi holat:** Boshlang'ich Fullstack dasturchi (bosqichma-bosqich o'rganishda).
-
----
-
-### 💻 Dasturlash yo‘nalishim | My Development Path
-* 🌐 **Frontend:** HTML, CSS,(saytlar ustida ishlayapman).
-* 🐍 **Backend:** Python (Asosiy tushunchalar va sodda scriptlar).
-* ⚙️ **Version Control:** Git & GitHub orqali kodni boshqarish va loyihalarni deploy qilish.
-
----
-
-### 🚀 Mening loyihalarim | My Projects
-- 🛠️ **Portfolio Website:** O'zim haqimda ma'lumot beruvchi responsive saytlar.
-- 🧩 **UI Components:** Toza va chiroyli interfeys elementlari (Navbar, Cards, Buttons).
-- 🐍 **Mini Python Projects:** Backend yo'nalishidagi kichik algoritmlar.
-
----
-
-### ⚡ Professional ko'nikmalar | Professional Skills
-- 🎯 **Kod sifati:** Kodni toza va tushunarli yozishga intilaman.
-- 📱 **Moslashuvchanlik:** Saytlarni barcha qurilmalar (Mobile, Desktop) uchun moslash.
-- 🔧 **Muammolarni yechish:** Xatolarni (bug) qidirish va ularni samarali hal qilish.
-
----
-
-### 🌱 Hozir nimalarni o‘rganayapman | What am I learning now?
-- ✅ **JavaScript ES6+:** Zamonaviy JavaScript imkoniyatlari.
-- ✅ **Clean Code:** Kodni tartibli va professional darajada yozish.
-- ✅ **Freelance Skills:** Mijozlar bilan ishlash va real loyihalarni muvaffaqiyatli topshirish.
-
----
-
-### 🛠️ Texnologiyalar & Ko'nikmalar | Tech & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FLESH-2012&label=Profile%20views&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 GitHub Statistika | GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=dark)
-
-### 📈 Faoliyat Grafigi | Activity Graph
-
-![Shahriyor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012&theme=react-dark)
+## 🚀 About Me
+- 💻 Frontend Developer
+- 🌱 Learning **JavaScript & Advanced CSS**
+- 🎯 Goal: **Senior Frontend Developer**
+- ⚡ Love: UI, Animations, Clean Design
 
 ---
 
-### 📫 Aloqa | Contact
-- 📞 **Telefon:** [+998 77 043 77 88](tel:+998770437788)
-- 📸 **Instagram:** [shahriyor_developer](https://www.instagram.com/shahriyor_developers?igsh=Zjh5cWxncmhmeGdk)
-- 📧 **Email:** [shahriyoraminboyev002@gmail.com](mailto:shahriyoraminboyev002@gmail.com)
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/></a>
+  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-FF00F7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:your@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
 <p align="center">
-  <i>"Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir xatolik — o‘sish uchun imkoniyatdir."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FLESH-2012&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+## 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
