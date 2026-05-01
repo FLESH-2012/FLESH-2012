@@ -9,7 +9,7 @@
 # 👋 Hi, I'm Shahriyor
 
 <p align="center">
-  <img src="https://your-image-link.png" width="150" style="border-radius:50%" />
+  <img src="[https://your-image-link.png](https://avatars.githubusercontent.com/u/240902781?v=4)" width="150" style="border-radius:50%" />
 </p>
 
 ### 🚀 Frontend Developer
