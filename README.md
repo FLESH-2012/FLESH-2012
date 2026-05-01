@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center">Salom 👋, mening ismim  Shahriyor</h1>
 
