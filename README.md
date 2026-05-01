@@ -22,7 +22,6 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/></a>
   <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-FF00F7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:your@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
