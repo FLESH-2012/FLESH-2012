@@ -1,66 +1,82 @@
  
 
-<h1 align="center">Salom 👋, mening ismim  Shahriyor</h1>
+<!-- HEADER IMAGE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+CSS+JavaScript;UI+Designer;Always+Learning🚀" />
+  <img src="https://your-image-link.png" alt="banner" width="100%" />
 </p>
 
+# 👋 Hi, I'm Shahriyor
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FLESH-2012&label=Profile%20views&color=00f7ff&style=for-the-badge" />
+  <img src="https://your-image-link.png" width="150" style="border-radius:50%" />
 </p>
 
----
+### 🚀 Frontend Developer
 
-## 🚀 About Me
-- 💻 Frontend Developer
-- 🌱 Learning **JavaScript & Advanced CSS**
-- 🎯 Goal: **Senior Frontend Developer**
-- ⚡ Love: UI, Animations, Clean Design
-
----
-
-## 🌐 Connect with me
 <p align="center">
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-FF00F7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+I build clean, modern and responsive websites with passion. <br/>
+Always learning. Always building.
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
-</p>
+## 👨‍💻 About Me
+
+* 🔹 Frontend Developer focused on modern UI/UX
+* 🔹 HTML, CSS, JavaScript bilan ishlayman
+* 🔹 Real loyihalar qilishni yaxshi ko‘raman
+* 🔹 Har kuni o‘zimni rivojlantiraman
+
+---
+
+## ⚡ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FLESH-2012&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=FLESH-2012\&show_icons=true\&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012\&layout=compact\&theme=tokyonight)
 
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=FLESH-2012\&theme=tokyonight)
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake.svg" />
-</p>
+## 📈 Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=FLESH-2012\&theme=tokyo-night)
 
 ---
 
-## 💡 Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🌐 Portfolio
+
+* 🔥 My Portfolio
+  https://your-portfolio-link.vercel.app
+
+---
+
+## 📬 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-shahriyor__developer-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/shahriyor_developer)
+
+[![Gmail](https://img.shields.io/badge/Gmail-shahriyoraminboyev002@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shahriyoraminboyev002@gmail.com)
+
+---
+
+## 👀 Profile Views
+
+![Views](https://komarev.com/ghpvc/?username=FLESH-2012\&style=for-the-badge)
+
+---
+
+## 💬 Quote
+
+> "Code. Learn. Build. Repeat."
