@@ -62,7 +62,7 @@ Always learning. Always building.
 
 ## 📬 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-shahriyor__developer-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/shahriyor_developer)
+[![Instagram](https://img.shields.io/badge/Instagram-shahriyor_developer-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/shahriyor_developer)
 
 [![Gmail](https://img.shields.io/badge/Gmail-shahriyoraminboyev002@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shahriyoraminboyev002@gmail.com)
 
