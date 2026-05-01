@@ -1,8 +1,5 @@
  
 
-<!-- HEADER IMAGE -->
-
-<p align="center">
   <img src="https://your-image-link.png" alt="banner" width="100%" />
 </p>
 
