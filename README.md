@@ -1,4 +1,8 @@
- 
+ https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Shahriyor%20Aminboyev&fontSize=35&fontColor=ffffff
+
+ <p align="center">
+  <img src="" />
+</p>
 
  <h1 align="center">Hi 👋, I'm Shahriyor Aminboyev</h1>
 <h3 align="center">🚀 Frontend Developer | UI Lover | Uzbekistan 🇺🇿</h3>
