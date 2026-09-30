@@ -1,80 +1,48 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,100:00f2fe&text=Shahriyor%20Aminboyev&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shahriyor Aminboyev</h1>
+  <!-- Animatsiyali Sarlavha -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Salom,+mening+ismim+[ISMINGIZ]!;Full-Stack+Software+Engineer;Muammolarga+samarali+yechim+topaman!" alt="Typing SVG" />
 
-<h3 align="center">Frontend Developer | UI Lover | Uzbekistan 🇺🇿</h3>
+  <h3>🚀 Dasturchi & Muammolarga Yechim Topuvchi</h3>
 
-<p align="center">
-Passionate about creating modern and responsive websites.
-</p>
+  <p align="center">
+    O'zimning texnik bilimlarim va tajribam orqali zamonaviy, tezkor hamda xavfsiz web va mobil ilovalarni yarataman.
+  </p>
 
----
+  <!-- Ijtimoiy Tarmoqlar -->
+  <p align="center">
+    <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:emailingiz@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Website" /></a>
+  </p>
 
-## 🚀 About Me
-
-- 🔥 Frontend Developer
-- 🌱 Learning JavaScript & React
-- 💻 Building web projects every day
-- 🎯 Goal: Become a Professional Full Stack Developer
-- 🇺🇿 From Uzbekistan
-- 📸 Instagram: **@shahriyor_developer**
-- 📧 Email: **shahriyoraminboyev002@gmail.com**
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## 📌 Men haqimda (About Me)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 **Hozirda nima ustida ishlayapman:** High-load arxitekturasiga ega bo'lgan **[Loyiha nomi]** platformasi.
+- 🌱 **Hozirda nimani o'rganyapman:** Go (Golang), Kubernetes va Microservices arxitekturasi.
+- 👯 **Hamkorlik uchun ochiqman:** Open-source loyihalar, Startaplar va murakkab Web/Mobile tizimlar.
+- 🎯 **Kelajakdagi maqsadlarim:** IT sohasida kuchli arxitektor bo'lish va yirik xalqaro loyihalarga hissa qo'shish.
+- ⚡ **Qiziqishlarim:** Shaxmat, ilmiy-faniylar, backend arxitekturasi va texnologik podkastlar.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Texnologik Ko'nikmalar (Tech Stack)
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/FLESH-2012">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://instagram.com/shahriyor_developer">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="mailto:shahriyoraminboyev002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+| Soha | Texnologiyalar va Vositalar |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=FLESH-2012&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+
