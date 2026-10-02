@@ -1,48 +1,96 @@
 <div align="center">
 
-  <!-- Animatsiyali Sarlavha -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Salom,+mening+ismim+[ISMINGIZ]!;Full-Stack+Software+Engineer;Muammolarga+samarali+yechim+topaman!" alt="Typing SVG" />
-
-  <h3>🚀 Dasturchi & Muammolarga Yechim Topuvchi</h3>
+  <!-- Animatsiyali Sarlavha Banneri -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61AFEF&center=true&vCenter=true&width=700&lines=Salom,+dasturchilar+va+mehmonlar!;Senior+Full-Stack+%26+Cloud+Engineer;Distributed+Systems+%26+AI+Enthusiast;Welcome+to+my+Engineering+Hub!" alt="Typing SVG" />
 
   <p align="center">
-    O'zimning texnik bilimlarim va tajribam orqali zamonaviy, tezkor hamda xavfsiz web va mobil ilovalarni yarataman.
+    <strong>💡 Murakkab texnik muammolarga skalalanuvchan (scalable) va innovatsion yechimlar yarataman.</strong>
   </p>
 
-  <!-- Ijtimoiy Tarmoqlar -->
+  <!-- Profil Tashrif Soni & Ijtimoiy Tugmalar -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=USERNAME&color=61afef&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  </p>
+
   <p align="center">
     <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://twitter.com/USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://medium.com/@USERNAME"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
     <a href="mailto:emailingiz@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Website" /></a>
   </p>
 
 </div>
 
 ---
 
-## 📌 Men haqimda (About Me)
+## 👨‍💻 Men Haqimda (Comprehensive About Me)
 
-- 🔭 **Hozirda nima ustida ishlayapman:** High-load arxitekturasiga ega bo'lgan **[Loyiha nomi]** platformasi.
-- 🌱 **Hozirda nimani o'rganyapman:** Go (Golang), Kubernetes va Microservices arxitekturasi.
-- 👯 **Hamkorlik uchun ochiqman:** Open-source loyihalar, Startaplar va murakkab Web/Mobile tizimlar.
-- 🎯 **Kelajakdagi maqsadlarim:** IT sohasida kuchli arxitektor bo'lish va yirik xalqaro loyihalarga hissa qo'shish.
-- ⚡ **Qiziqishlarim:** Shaxmat, ilmiy-faniylar, backend arxitekturasi va texnologik podkastlar.
+Men **Full-Stack Injiniring**, **Mikroservislar Arxitekturasi** va **Sun'iy Intellekt (AI)** sohalarida tajribaga ega dasturchiman. Kod yozishda toza kod (Clean Code), testlash (TDD) va tizimlar optimallashtirishga (Performance Optimization) alohida e'tibor qarataman.
 
----
-
-## 🛠️ Texnologik Ko'nikmalar (Tech Stack)
-
-| Soha | Texnologiyalar va Vositalar |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+- 🔭 **Hozirda ishlayapman:** Yirik korporativ mijozlar uchun high-load va tarqatilgan (distributed) **[Loyiha Nomi]** tizimi ustida.
+- 💬 **Konsultatsiya berolaman:** Backend arxitekturasi, SQL/NoSQL bazalarni optimallashtirish, Docker/Kubernetes va CI/CD quvurlarini (pipelines) sozlash.
+- 🌱 **Xususiy tadqiqotlarim:** Rust tilida unumdorlikni oshirish, LLM (Large Language Models) modellarini lokal integratsiya qilish.
+- ⚡ **Qiziqish va hobbi:** Shaxmat, kibervositalar xavfsizligi, algoritmlar va IT konferensiyalarda ma'ruza qilish.
 
 ---
 
+## 🛠️ Kengaytirilgan Texnik Ko'nikmalar (Detailed Tech Stack)
 
+<details open>
+<summary><b>🔥 Dasturlash Tillari & Core Frameworks</b></summary>
+<br />
+
+| Tillar / Frameworklar | Soha & Daraja | Nishonlar (Badges) |
+| :--- | :--- | :--- |
+| **JavaScript / TypeScript** | Full-Stack Core | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Python** | Backend & AI / Data Science | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
+| **Go (Golang)** | High-Performance Microservices | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| **Java / C#** | Enterprise Systems | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+</details>
+
+<details>
+<summary><b>🌐 Frontend & Mobile Ekotizimi</b></summary>
+<br />
+
+- **Frameworks:** React.js, Next.js, Vue.js, Nuxt.js
+- **State Management:** Redux Toolkit, Zustand, Pinia, React Query
+- **UI Libraries:** TailwindCSS, Material UI, Shadcn UI, Ant Design
+- **Mobile:** React Native, Flutter
+</details>
+
+<details>
+<summary><b>⚙️ Backend, Databases & Caching</b></summary>
+<br />
+
+- **Node.js Stack:** Express.js, NestJS, GraphQL, REST APIs, WebSockets
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch
+- **ORMs:** Prisma, TypeORM, SQLAlchemy, Drizzle ORM
+</details>
+
+<details>
+<summary><b>☁️ DevOps, Infrastructure & Cloud</b></summary>
+<br />
+
+- **Containers & Orchestration:** Docker, Docker Compose, Kubernetes
+- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
+- **Cloud Providers:** AWS (S3, EC2, Lambda), Google Cloud Platform (GCP), DigitalOcean
+- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack
+</details>
+
+---
+
+## 📈 Ish Tajribasi va Loyihalar Xaritasi (Career Timeline)
+
+```text
+2025 - Hozir : Lead Full-Stack Engineer @ Global Tech Company
+  ├── Bulutli xizmatlar va microservice arxitekturasini boshqarish.
+  └── Tizimning o'tkazuvchanlik qobiliyatini 50% ga oshirish.
+
+2023 - 2025  : Senior Backend Developer @ Regional Fintech
+  ├── High-load to'lov tizimi integratsiyasi va xavfsizlik protokollari.
+  └── PostgreSQL so'rovlarini optimallashtirish orqali kechikishni (latency) 120ms ga kamaytirish.
+
+2021 - 2023  : Middle Web Developer @ Software Agency
+  ├── React va Node.js baza asosida 15+ dan ortiq tijoriy loyihalarni topshirish.
 
