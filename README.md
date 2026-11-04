@@ -108,23 +108,19 @@ Check out my repositories to see my progress!
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.instagram.com/shahriyor_developer">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/ai_dunyosi_offical/">
+    <img src="https://img.shields.io/badge/Instagram-ai__dunyosi__offical-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:shahriyoraminboyev002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-<h3 align="center">💚 FUTURE FRONTEND DEVELOPER 💚</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile! ⭐
+  <a href="tel:+770437788">
+    <img src="https://img.shields.io/badge/Phone-+770437788-00C853?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
