@@ -1,51 +1,56 @@
-# 👋 Hi, I'm SHAHRIYOR!
+# 👋 HELLO, I'M SHAHRIYOR!
 
-<h2 align="center">🚀 Future Frontend Developer | Creative Coder</h2>
+<h2 align="center">🚀 FUTURE FRONTEND DEVELOPER</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Future+Frontend+Developer;Learning+HTML+%26+CSS;Building+Creative+Websites;Never+Stop+Learning!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Future+Frontend+Developer;Creative+Web+Designer;HTML+%7C+CSS+%7C+JavaScript;Dream+Big.+Code+Bigger."/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=180&section=header&text=SHAHRIYOR&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 💫 ABOUT ME
 
-Hello! I'm **SHAHRIYOR**, a passionate beginner Frontend Developer who loves creating beautiful, modern, and responsive websites.
+Hello! I'm **SHAHRIYOR**, a young and passionate developer who loves technology, programming, and creative web design.
 
-I enjoy learning new technologies, exploring creative designs, and improving my coding skills every day.
+I'm working hard to become a professional Frontend Developer. Every day, I learn something new and try to improve my coding skills.
 
-- 💻 I'm currently learning Frontend Development.
-- 🌱 I'm improving my HTML and CSS skills.
-- 🎨 I love modern UI/UX design.
-- 🚀 My goal is to become a professional developer.
-- 🔥 I enjoy building creative projects.
-- 📚 I believe in continuous learning.
-- ⚡ I never stop improving myself!
+- 💻 Learning Frontend Development.
+- 🌱 Improving my HTML and CSS skills.
+- ⚡ Exploring JavaScript.
+- 🎨 Interested in modern UI/UX design.
+- 🚀 Creating creative and responsive websites.
+- 📚 Learning new things every day.
+- 🎯 My dream is to become a professional developer.
+- 🔥 Believe in yourself and never stop learning!
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ MY TECHNOLOGIES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
 </p>
 
-| Technology | Level |
+| Technology | Description |
 |---|---|
-| HTML5 | Learning |
-| CSS3 | Learning |
-| JavaScript | Beginner |
-| Git | Learning |
-| GitHub | Learning |
-| VS Code | Using |
+| HTML5 | Web page structure |
+| CSS3 | Styling and animations |
+| JavaScript | Interactive websites |
+| VS Code | Code editor |
+| Git | Version control |
+| GitHub | Project hosting |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohruzbek686-gif&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00FF88" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruzbek686-gif&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shohruzbek686-gif&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00FF88&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruzbek686-gif&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF88" height="180"/>
 </p>
 
 <p align="center">
@@ -54,73 +59,77 @@ I enjoy learning new technologies, exploring creative designs, and improving my 
 
 ---
 
-## 🎯 My Goals
-
-- [x] Start learning HTML.
-- [x] Explore CSS.
-- [ ] Master Flexbox and Grid.
-- [ ] Learn JavaScript deeply.
-- [ ] Build responsive websites.
-- [ ] Create professional projects.
-- [ ] Become a Professional Frontend Developer.
-- [ ] Become a Full Stack Developer.
-
----
-
-## 🚀 My Projects
-
-I love creating new things and experimenting with web technologies.
-
-Some of my favorite project ideas:
-
-- 🌐 Modern Landing Pages
-- 🎨 Creative Portfolio Websites
-- 💎 Glassmorphism UI Designs
-- 🃏 Animated CSS Cards
-- 🌌 Interactive Web Effects
-- 📱 Responsive Websites
-
-Check out my repositories to see my progress!
-
----
-
-## 🐍 Contribution Snake
+## 🐍 MY CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shohruzbek686-gif/shohruzbek686-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/shohruzbek686-gif/shohruzbek686-gif/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 </p>
 
 ---
 
-## 📈 My Developer Mindset
+## 🎯 MY GOALS
 
-> "Great developers are not born. They are built through practice, patience, and passion."
-
-💚 Code every day.
-
-🚀 Learn something new.
-
-🔥 Build something amazing.
-
-🎯 Never give up!
+- [x] Start learning HTML.
+- [x] Start learning CSS.
+- [ ] Master CSS Flexbox.
+- [ ] Master CSS Grid.
+- [ ] Improve JavaScript skills.
+- [ ] Build responsive websites.
+- [ ] Create a professional portfolio.
+- [ ] Learn advanced Frontend Development.
+- [ ] Become a professional Web Developer.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 WHAT I LOVE BUILDING
 
-## 🌐 Connect With Me
+- 🌐 Modern Websites
+- 🎨 Creative Landing Pages
+- 💎 Glassmorphism Designs
+- 🃏 Animated CSS Cards
+- 📱 Responsive Web Designs
+- 🌌 Interactive Web Effects
+- ⚡ Smooth Website Animations
+
+---
+
+## 💡 MY DEVELOPER PHILOSOPHY
+
+> "Every expert was once a beginner. Keep learning, keep building, and never give up!"
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code+Every+Day;Build+Your+Dreams;Never+Stop+Learning;Keep+Moving+Forward"/>
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.instagram.com/ai_dunyosi_offical/">
     <img src="https://img.shields.io/badge/Instagram-ai__dunyosi__offical-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:shahriyoraminboyev002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <a href="tel:+770437788">
-    <img src="https://img.shields.io/badge/Phone-+770437788-00C853?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-+770437788-00C853?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## ⭐ THANK YOU FOR VISITING!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer"/>
+</p>
+
+<h3 align="center">💚 FUTURE FRONTEND DEVELOPER 💚</h3>
+
+<p align="center">
+  <b>Dream Big | Work Hard | Stay Creative</b>
 </p>
