@@ -1,83 +1,84 @@
 # 👋 HELLO, I'M SHAHRIYOR!
 
-<h2 align="center">🚀 FUTURE FRONTEND DEVELOPER</h2>
+\<h2 align="center">🚀 FUTURE FRONTEND DEVELOPER\</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Future+Frontend+Developer;Creative+Web+Designer;HTML+%7C+CSS+%7C+JavaScript;Dream+Big.+Code+Bigger."/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Future+Frontend+Developer;Creative+Web+Designer;HTML+%7C+CSS+%7C+JavaScript;Never+Stop+Learning](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=00FF88\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Future+Frontend+Developer;Creative+Web+Designer;HTML+%7C+CSS+%7C+JavaScript;Never+Stop+Learning)!"/>
+\</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=180&section=header&text=SHAHRIYOR&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=180&section=header&text=SHAHRIYOR&fontSize=50&fontColor=000000&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=00FF88\&height=180\&section=header\&text=SHAHRIYOR\&fontSize=50\&fontColor=000000\&animation=fadeIn)"/>
+\</p>
 
 ---
 
-## 💫 ABOUT ME
+## 👨‍💻 ABOUT ME
 
-Hello! I'm **SHAHRIYOR**, a young and passionate developer who loves technology, programming, and creative web design.
+Hello! I'm **SHAHRIYOR**, a passionate beginner Frontend Developer.
 
-I'm working hard to become a professional Frontend Developer. Every day, I learn something new and try to improve my coding skills.
+I love programming, technology, creative designs, and building modern websites. My journey in web development is just beginning, and I'm working every day to become a professional developer.
 
 - 💻 Learning Frontend Development.
 - 🌱 Improving my HTML and CSS skills.
-- ⚡ Exploring JavaScript.
-- 🎨 Interested in modern UI/UX design.
-- 🚀 Creating creative and responsive websites.
-- 📚 Learning new things every day.
-- 🎯 My dream is to become a professional developer.
-- 🔥 Believe in yourself and never stop learning!
+- ⚡ Learning JavaScript.
+- 🎨 Interested in UI/UX design.
+- 🚀 Building creative websites.
+- 📚 Learning new technologies.
+- 🎯 My goal is to become a professional developer.
+- 🔥 Dream big and never give up!
 
 ---
 
-## 🛠️ MY TECHNOLOGIES
+## 🛠️ MY TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,js,vscode,git,github](https://skillicons.dev/icons?i=html,css,js,vscode,git,github)"/>
+\</p>
 
-| Technology | Description |
-|---|---|
-| HTML5 | Web page structure |
-| CSS3 | Styling and animations |
-| JavaScript | Interactive websites |
-| VS Code | Code editor |
-| Git | Version control |
-| GitHub | Project hosting |
+| Technology | What I use it for      |
+| ---------- | ---------------------- |
+| HTML5      | Website structure      |
+| CSS3       | Styling and animations |
+| JavaScript | Interactive websites   |
+| VS Code    | Code editor            |
+| Git        | Version control        |
+| GitHub     | Hosting my projects    |
 
 ---
 
 ## 📊 GITHUB STATISTICS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohruzbek686-gif&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00FF88&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruzbek686-gif&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF88" height="180"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00FF88&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=FLESH-2012\&show_icons=true\&theme=tokyonight\&hide_border=true\&title_color=00FF88\&icon_color=00FF88\&include_all_commits=true)" height="180"/>
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF88](https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012\&layout=compact\&theme=tokyonight\&hide_border=true\&title_color=00FF88)" height="180"/>
+\</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shohruzbek686-gif&theme=tokyonight&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=FLESH-2012&theme=tokyonight&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88](https://streak-stats.demolab.com?user=FLESH-2012\&theme=tokyonight\&hide_border=true\&ring=00FF88\&fire=00FF88\&currStreakLabel=00FF88)" width="70%"/>
+\</p>
 
 ---
 
 ## 🐍 MY CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shohruzbek686-gif/shohruzbek686-gif/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/FLESH-2012/FLESH-2012/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake" width="100%"/>
+\</p>
 
 ---
 
-## 🎯 MY GOALS
+## 🎯 MY DEVELOPER GOALS
 
 - [x] Start learning HTML.
 - [x] Start learning CSS.
-- [ ] Master CSS Flexbox.
-- [ ] Master CSS Grid.
-- [ ] Improve JavaScript skills.
-- [ ] Build responsive websites.
-- [ ] Create a professional portfolio.
-- [ ] Learn advanced Frontend Development.
-- [ ] Become a professional Web Developer.
+- [x] Master CSS Flexbox.
+- [x] Master CSS Grid.
+- [x] Improve JavaScript skills.
+- [x] Build responsive websites.
+- [x] Create a professional portfolio.
+- [x] Learn advanced JavaScript.
+- [x] Become a professional Frontend Developer.
+- [x] Become a Full Stack Developer.
 
 ---
 
@@ -90,6 +91,7 @@ I'm working hard to become a professional Frontend Developer. Every day, I learn
 - 📱 Responsive Web Designs
 - 🌌 Interactive Web Effects
 - ⚡ Smooth Website Animations
+- 💻 Creative Developer Portfolios
 
 ---
 
@@ -97,39 +99,41 @@ I'm working hard to become a professional Frontend Developer. Every day, I learn
 
 > "Every expert was once a beginner. Keep learning, keep building, and never give up!"
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code+Every+Day;Build+Your+Dreams;Never+Stop+Learning;Keep+Moving+Forward"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code+Every+Day;Build+Your+Dreams;Never+Stop+Learning;Keep+Moving+Forward](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=20\&pause=1000\&color=00FF88\&center=true\&vCenter=true\&width=600\&lines=Code+Every+Day;Build+Your+Dreams;Never+Stop+Learning;Keep+Moving+Forward)"/>
+\</p>
 
 ---
 
 ## 🌐 CONNECT WITH ME
 
-<p align="center">
-  <a href="https://www.instagram.com/ai_dunyosi_offical/">
-    <img src="https://img.shields.io/badge/Instagram-ai__dunyosi__offical-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:shahriyoraminboyev002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://www.instagram.com/ai_dunyosi_offical/](https://www.instagram.com/ai_dunyosi_offical/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Instagram-ai__dunyosi__offical-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-ai__dunyosi__offical-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:shahriyoraminboyev002\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+&#x20; \</a>
+\</p>
 
-<p align="center">
-  <a href="tel:+770437788">
-    <img src="https://img.shields.io/badge/Phone-+770437788-00C853?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="tel:+770437788">
+&#x20;   \<img src="[https://img.shields.io/badge/Phone-+770437788-00C853?style=for-the-badge&logo=phone&logoColor=white](https://img.shields.io/badge/Phone-+770437788-00C853?style=for-the-badge\&logo=phone\&logoColor=white)"/>
+&#x20; \</a>
+\</p>
 
 ---
 
-## ⭐ THANK YOU FOR VISITING!
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=00FF88\&height=120\&section=footer)"/>
+\</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer"/>
-</p>
+\<h3 align="center">💚 FUTURE FRONTEND DEVELOPER 💚\</h3>
 
-<h3 align="center">💚 FUTURE FRONTEND DEVELOPER 💚</h3>
+\<p align="center">
+&#x20; ⭐ THANK YOU FOR VISITING MY PROFILE! ⭐
+\</p>
 
-<p align="center">
-  <b>Dream Big | Work Hard | Stay Creative</b>
-</p>
+\<p align="center">
+&#x20; \<b>DREAM BIG | WORK HARD | STAY CREATIVE\</b>
+\</p>
