@@ -1,69 +1,130 @@
-# 🚀 Hi there, I'm Shahriyor! 👋
+# 👋 Hi, I'm SHAHRIYOR!
 
-<div align="center">
+<h2 align="center">🚀 Future Frontend Developer | Creative Coder</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Building+Modern+Web+Apps;Passionate+About+Technology+%26+AI)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 **Learning Journey:** Passionate student and self-taught Frontend Web Developer.
-* 💻 **Tech Stack Focus:** Writing clean HTML5, CSS3, and modern JavaScript (ES6+).
-* 🛠️ **Tools of Choice:** VS Code & Mobile Web Development (Spck Editor).
-* 🎯 **Goals:** Building interactive, responsive web applications and constantly expanding my programming skills.
-* 💡 **Interests:** Web Development, Artificial Intelligence, and Mobile Gaming.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### **Tools & Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Future+Frontend+Developer;Learning+HTML+%26+CSS;Building+Creative+Websites;Never+Stop+Learning!"/>
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 🌟 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahriyor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=FLESH-2012&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+Hello! I'm **SHAHRIYOR**, a passionate beginner Frontend Developer who loves creating beautiful, modern, and responsive websites.
 
-<br>
+I enjoy learning new technologies, exploring creative designs, and improving my coding skills every day.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+- 💻 I'm currently learning Frontend Development.
+- 🌱 I'm improving my HTML and CSS skills.
+- 🎨 I love modern UI/UX design.
+- 🚀 My goal is to become a professional developer.
+- 🔥 I enjoy building creative projects.
+- 📚 I believe in continuous learning.
+- ⚡ I never stop improving myself!
 
 ---
 
-## 🌐 Connect & Find Me
+## 🛠️ My Tech Stack
 
-<p align="left">
-  <a href="https://github.com/FLESH-2012">
-    <img src="https://img.shields.io/badge/GitHub-FLESH--2012-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git"/>
+</p>
+
+| Technology | Level |
+|---|---|
+| HTML5 | Learning |
+| CSS3 | Learning |
+| JavaScript | Beginner |
+| Git | Learning |
+| GitHub | Learning |
+| VS Code | Using |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohruzbek686-gif&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00FF88" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruzbek686-gif&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shohruzbek686-gif&theme=tokyonight&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%"/>
+</p>
+
+---
+
+## 🎯 My Goals
+
+- [x] Start learning HTML.
+- [x] Explore CSS.
+- [ ] Master Flexbox and Grid.
+- [ ] Learn JavaScript deeply.
+- [ ] Build responsive websites.
+- [ ] Create professional projects.
+- [ ] Become a Professional Frontend Developer.
+- [ ] Become a Full Stack Developer.
+
+---
+
+## 🚀 My Projects
+
+I love creating new things and experimenting with web technologies.
+
+Some of my favorite project ideas:
+
+- 🌐 Modern Landing Pages
+- 🎨 Creative Portfolio Websites
+- 💎 Glassmorphism UI Designs
+- 🃏 Animated CSS Cards
+- 🌌 Interactive Web Effects
+- 📱 Responsive Websites
+
+Check out my repositories to see my progress!
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shohruzbek686-gif/shohruzbek686-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 📈 My Developer Mindset
+
+> "Great developers are not born. They are built through practice, patience, and passion."
+
+💚 Code every day.
+
+🚀 Learn something new.
+
+🔥 Build something amazing.
+
+🎯 Never give up!
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/shahriyor_developer">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.fiverr.com/flesh_dev">
-    <img src="https://img.shields.io/badge/Fiverr-flesh__dev-1DBF73?style=for-the-badge&logo=fiverr" alt="Fiverr" />
+  <a href="mailto:shahriyoraminboyev002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> — Cory House 💻✨
-</div>
+<h3 align="center">💚 FUTURE FRONTEND DEVELOPER 💚</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! ⭐
+</p>
