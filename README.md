@@ -1,16 +1,11 @@
 <!-- Animatsiyali Banner -->
-<!-- Dinamik yozuv animatsiyasi -->
 <div align="center">
-  <a href="https://github.com/FLESH-2012">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Assalomu+alaykum!+Men+Shahriyor+Aminboyev;Frontend+Dasturchi+(HTML%2C+CSS%2C+JavaScript);Interaktiv+veb-ilovalar+va+o'yinlar+yarataman;Har+kuni+yangi+texnologiyalarni+o'rganaman" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shahriyor%20Aminboyev&fontSize=45&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20Creative%20Coder&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<!-- Dinamik yozuv animatsiyasi -->
+<!-- 100% ishlaydigan Typing animatsiyasi -->
 <div align="center">
-  <a href="https://github.com/FLESH-2012">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Assalomu+alaykum!+Men+Shahriyor+Aminboyev+👋;Frontend+Dasturchi+(HTML%2C+CSS%2C+JavaScript);Interaktiv+veb-ilovalar+va+o'yinlar+yarataman+🚀;Har+kuni+yangi+texnologiyalarni+o'rganaman+💻" alt="Typing SVG" />
-  </a>
+  <img src="./typing.svg" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -80,7 +75,7 @@ Loyihalar, hamkorlik yoki fikr almashish uchun men bilan istalgan vaqtda bog'lan
     <img src="https://img.shields.io/badge/Telefon-+998_77_043_77_88-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   <a href="mailto:shahriyoraminboyev002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shahriyoraminboyev002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-shahriyoraminboyev002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
   </a>
   <a href="https://www.instagram.com/shahriyor_225_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@shahriyor__225__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
