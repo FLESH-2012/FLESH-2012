@@ -1,684 +1,92 @@
+<!-- Animatsiyali Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shahriyor%20Aminboyev&fontSize=45&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20Creative%20Coder&descAlignY=60&descSize=18" width="100%" />
+</div>
 
-<!DOCTYPE html>
-<html lang="uz">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SHAHRIYOR | Portfolio</title>
+<!-- Dinamik yozuv animatsiyasi -->
+<div align="center">
+  <a href="https://github.com/FLESH-2012">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Assalomu+alaykum!+Men+Shahriyor+Aminboyev+👋;Frontend+Dasturchi+(HTML%2C+CSS%2C+JavaScript);Interaktiv+veb-ilovalar+va+o'yinlar+yarataman+🚀;Har+kuni+yangi+texnologiyalarni+o'rganaman+💻" alt="Typing SVG" />
+  </a>
+</div>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;800&family=Poppins:wght@400;500;600;700&display=swap');
+<br/>
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-}
+---
 
-body {
-    background: #070b16;
-    color: white;
-    font-family: Poppins, sans-serif;
-}
+### 👨‍💻 Men haqimda (About Me)
 
-:root {
-    --neon: #00ffd5;
-    --blue: #536dfe;
-}
+Salom! Mening ismim **Shahriyor**. Men zamonaviy, tezkor va chiroyli interfeysga ega veb-saytlar yaratishga qiziqadigan **Frontend dasturchiman**. Hozirda **HTML5, CSS3 (Flexbox, Grid, Animatsiyalar)** va **JavaScript (DOM, Array metodlari, interaktiv mantiq)** bo'yicha bilimlarimni chuqurlashtirib, real loyihalar va brauzer o'yinlari ustida ishlayapman.
 
-header {
-    width: 100%;
-    padding: 22px 8%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    background: rgba(7,11,22,.95);
-    backdrop-filter: blur(15px);
-    z-index: 100;
-    border-bottom: 1px solid #26334b;
-}
+* 🔭 **Hozirda:** JavaScript va zamonaviy UI/UX dizayn bo'yicha amaliy loyihalar yaratmoqdaman.
+* 🌱 **O'rganmoqdaman:** Murakkab JS algoritmlari, API bilan ishlash va zamonaviy frontend arxitekturasi.
+* 💡 **Maqsadim:** Foydalanuvchilar uchun qulay, kreativ va mukammal ishlaydigan veb-mahsulotlar yaratish.
+* ⚡ **Qiziqishlarim:** Veb-dizayn, brauzer mini-o'yinlari, sun'iy intellekt (AI) va texnologik yangiliklar.
 
-.logo {
-    font-family: Orbitron;
-    font-size: 22px;
-    font-weight: 800;
-    color: white;
-    text-decoration: none;
-}
+---
 
-.logo span {
-    color: var(--neon);
-}
+### 🛠️ Texnologiyalar va Ko'nikmalar (Tech Stack)
 
-nav {
-    display: flex;
-    gap: 25px;
-}
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="My Skills" />
+</div>
 
-nav a {
-    text-decoration: none;
-    color: #aaa;
-    font-size: 13px;
-    transition: .3s;
-}
+<br/>
 
-nav a:hover {
-    color: var(--neon);
-}
+| Yo'nalish | Texnologiyalar |
+| :--- | :--- |
+| **Frontend Asoslari** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Layout & Dizayn** | `CSS Flexbox` • `CSS Grid` • `Responsive Design` • `CSS Animations` |
+| **Dasturlash muhiti & Vositalar** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-section {
-    padding: 110px 8%;
-    text-align: center;
-}
+---
 
-.home {
-    min-height: 100vh;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: left;
-    gap: 40px;
-    padding-top: 140px;
-}
+### 📊 GitHub Statistikam (Live Stats)
 
-.welcome {
-    color: var(--neon);
-    letter-spacing: 5px;
-}
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=FLESH-2012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLESH-2012&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00f2fe" />
+</div>
 
-.home h1 {
-    font-family: Orbitron;
-    font-size: clamp(35px, 6vw, 65px);
-    margin: 20px 0;
-}
+<br/>
 
-.home h1 span {
-    color: var(--neon);
-    text-shadow: 0 0 25px #00ffd555;
-}
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FLESH-2012&theme=tokyonight&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
+</div>
 
-.home h3 {
-    color: #aab5c9;
-    font-size: 23px;
-}
+---
 
-.description {
-    color: #aab5c9;
-    max-width: 480px;
-    line-height: 1.8;
-    margin: 20px 0 30px;
-}
+### 🐍 Faollik va Snake O'yini (Contribution Snake)
 
-.btn {
-    display: inline-block;
-    background: var(--neon);
-    color: #071016;
-    padding: 14px 25px;
-    border: none;
-    border-radius: 8px;
-    font-weight: 700;
-    text-decoration: none;
-    cursor: pointer;
-    transition: .3s;
-}
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
-.btn:hover {
-    box-shadow: 0 0 30px var(--neon);
-    transform: translateY(-4px);
-}
+---
 
-.hero-icon {
-    text-align: center;
-}
+### 📬 Bog'lanish (Contact Me)
 
-.big-s {
-    font-family: Orbitron;
-    font-size: 230px;
-    color: transparent;
-    -webkit-text-stroke: 3px var(--neon);
-    text-shadow: 0 0 40px #00ffd555;
-    animation: float 3s infinite ease-in-out;
-}
+Loyihalar, hamkorlik yoki fikr almashish uchun men bilan istalgan vaqtda bog'lanishingiz mumkin:
 
-.hero-icon p {
-    color: var(--neon);
-    letter-spacing: 5px;
-    font-size: 12px;
-}
+<div align="center">
+  <a href="tel:+998770437788">
+    <img src="https://img.shields.io/badge/Telefon-+998_77_043_77_88-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="mailto:shahriyoraminboyev002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shahriyoraminboyev002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/shahriyor_225_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@shahriyor__225__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-@keyframes float {
-    50% { transform: translateY(-20px); }
-}
+<br/>
 
-h2 {
-    font-family: Orbitron;
-    font-size: clamp(25px, 4vw, 38px);
-    margin-bottom: 40px;
-}
-
-h2 span {
-    color: var(--neon);
-}
-
-.about-box, .skills-box, .game-box, .contact-box {
-    max-width: 800px;
-    margin: auto;
-    padding: 35px;
-    background: #10192b;
-    border: 1px solid #263550;
-    border-radius: 15px;
-    box-shadow: 0 0 30px #00ffd510;
-}
-
-.about-box h3 {
-    color: var(--neon);
-    margin-bottom: 20px;
-}
-
-.about-box p {
-    color: #abb9ce;
-    line-height: 2;
-}
-
-.skill {
-    margin: 25px 0;
-    text-align: left;
-}
-
-.skill div {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 10px;
-}
-
-.skill b {
-    color: var(--neon);
-}
-
-.bar {
-    width: 100%;
-    height: 9px;
-    background: #26334b;
-    border-radius: 20px;
-    overflow: hidden;
-}
-
-.bar span {
-    height: 100%;
-    display: block;
-    background: linear-gradient(90deg, var(--blue), var(--neon));
-    border-radius: 20px;
-}
-
-.game-box canvas {
-    display: block;
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 20px auto;
-    background: #091321;
-    border: 2px solid var(--neon);
-    border-radius: 8px;
-}
-
-.score {
-    font-family: Orbitron;
-    color: var(--neon);
-    font-size: 22px;
-}
-
-.game-box p {
-    color: #9baac0;
-    font-size: 12px;
-    margin: 15px 0;
-}
-
-.contact-box {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.contact-box a {
-    color: var(--neon);
-    background: #19253a;
-    padding: 17px;
-    border-radius: 8px;
-    text-decoration: none;
-    overflow-wrap: anywhere;
-    transition: .3s;
-}
-
-.contact-box a:hover {
-    background: var(--neon);
-    color: #071016;
-    transform: scale(1.02);
-}
-
-footer {
-    padding: 25px;
-    text-align: center;
-    border-top: 1px solid #263550;
-    color: #8794a9;
-    font-size: 12px;
-}
-
-/* TELEFON UCHUN */
-@media(max-width: 750px) {
-    header {
-        flex-direction: column;
-        gap: 15px;
-        padding: 15px;
-    }
-
-    nav {
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 13px;
-    }
-
-    nav a {
-        font-size: 11px;
-    }
-
-    .home {
-        flex-direction: column;
-        text-align: center;
-        justify-content: center;
-        padding-top: 160px;
-    }
-
-    .description {
-        margin: 20px auto 30px;
-    }
-
-    .big-s {
-        font-size: 130px;
-    }
-
-    section {
-        padding: 80px 5%;
-    }
-
-    .about-box, .skills-box, .game-box, .contact-box {
-        padding: 20px;
-    }
-}
-</style>
-</head>
-
-<body>
-
-<header>
-    <a href="#home" class="logo">SHAHRIYOR<span>.</span></a>
-
-    <nav>
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#game">Snake</a>
-        <a href="#contact">Contact</a>
-    </nav>
-</header>
-
-<!-- HOME -->
-
-<section class="home" id="home">
-
-    <div>
-        <p class="welcome">SALOM, MEN</p>
-
-        <h1>
-            SHAHRIYOR<br>
-            <span>AMINBOYEV</span>
-        </h1>
-
-        <h3>Frontend Developer</h3>
-
-        <p class="description">
-            Men HTML, CSS va JavaScript yordamida
-            zamonaviy va chiroyli web saytlar yarataman.
-            Xush kelibsiz mening portfolio saytimga!
-        </p>
-
-        <a href="#contact" class="btn">
-            MEN BILAN BOG‘LANISH →
-        </a>
-    </div>
-
-    <div class="hero-icon">
-        <div class="big-s">S</div>
-        <p>CREATIVE DEVELOPER</p>
-    </div>
-
-</section>
-
-<!-- ABOUT -->
-
-<section id="about">
-
-    <h2>MEN <span>HAQIMDA</span></h2>
-
-    <div class="about-box">
-        <h3>SHAHRIYOR AMINBOYEV</h3>
-
-        <p>
-            Salom! Men Shahriyor Aminboyevman.
-            Dasturlashga juda qiziqaman.
-            HTML, CSS va JavaScript yordamida
-            turli xil loyihalar yarataman.
-            Kelajakda professional dasturchi bo‘lishni
-            maqsad qilganman.
-        </p>
-    </div>
-
-</section>
-
-<!-- SKILLS -->
-
-<section id="skills">
-
-    <h2>MY <span>SKILLS</span></h2>
-
-    <div class="skills-box">
-
-        <div class="skill">
-            <div><span>HTML</span><b>90%</b></div>
-            <div class="bar"><span style="width:90%"></span></div>
-        </div>
-
-        <div class="skill">
-            <div><span>CSS</span><b>85%</b></div>
-            <div class="bar"><span style="width:85%"></span></div>
-        </div>
-
-        <div class="skill">
-            <div><span>JAVASCRIPT</span><b>70%</b></div>
-            <div class="bar"><span style="width:70%"></span></div>
-        </div>
-
-    </div>
-
-</section>
-
-<!-- SNAKE GAME -->
-
-<section id="game">
-
-    <h2>SNAKE <span>GAME</span></h2>
-
-    <div class="game-box">
-
-        <div class="score">
-            SCORE: <span id="score">0</span>
-        </div>
-
-        <canvas id="snake" width="400" height="400"></canvas>
-
-        <button class="btn" onclick="startGame()">
-            START GAME ▶
-        </button>
-
-        <p>
-            ⬆ ⬇ ⬅ ➡ yoki W A S D tugmalari bilan boshqar!
-        </p>
-
-    </div>
-
-</section>
-
-<!-- CONTACT -->
-
-<section id="contact">
-
-    <h2>CONTACT <span>ME</span></h2>
-
-    <div class="contact-box">
-
-        <a href="tel:770437788">
-            📞 TELEFON: 770437788
-        </a>
-
-        <a href="mailto:shahriyoraminboyev002@gmail.com">
-            📧 GMAIL: shahriyoraminboyev002@gmail.com
-        </a>
-
-        <a href="https://www.instagram.com/shahriyor_225_/"
-           target="_blank">
-            📸 INSTAGRAM: @shahriyor_225_
-        </a>
-
-    </div>
-
-</section>
-
-<footer>
-    © 2026 SHAHRIYOR AMINBOYEV | ALL RIGHTS RESERVED
-</footer>
-
-<script>
-
-// SNAKE GAME
-
-const canvas = document.getElementById("snake");
-const ctx = canvas.getContext("2d");
-
-const size = 20;
-const cells = 20;
-
-let snake = [];
-let food = {};
-let dx = 1;
-let dy = 0;
-let score = 0;
-let game;
-let running = false;
-
-function createFood() {
-    food = {
-        x: Math.floor(Math.random() * cells),
-        y: Math.floor(Math.random() * cells)
-    };
-
-    if (snake.some(p => p.x === food.x && p.y === food.y)) {
-        createFood();
-    }
-}
-
-function startGame() {
-    clearInterval(game);
-
-    snake = [
-        {x: 10, y: 10},
-        {x: 9, y: 10},
-        {x: 8, y: 10}
-    ];
-
-    dx = 1;
-    dy = 0;
-    score = 0;
-
-    document.getElementById("score").textContent = score;
-
-    createFood();
-
-    running = true;
-
-    draw();
-
-    game = setInterval(update, 120);
-}
-
-function update() {
-
-    const head = {
-        x: snake[0].x + dx,
-        y: snake[0].y + dy
-    };
-
-    const ate = head.x === food.x && head.y === food.y;
-    const body = ate ? snake : snake.slice(0, -1);
-
-    if (
-        head.x < 0 ||
-        head.y < 0 ||
-        head.x >= cells ||
-        head.y >= cells ||
-        body.some(p => p.x === head.x && p.y === head.y)
-    ) {
-        endGame();
-        return;
-    }
-
-    snake.unshift(head);
-
-    if (ate) {
-        score += 10;
-
-        document.getElementById("score").textContent = score;
-
-        createFood();
-    } else {
-        snake.pop();
-    }
-
-    draw();
-}
-
-function draw() {
-
-    ctx.clearRect(0, 0, 400, 400);
-
-    // GRID
-
-    ctx.strokeStyle = "#17283d";
-
-    for (let i = 0; i <= cells; i++) {
-        ctx.beginPath();
-        ctx.moveTo(i * size, 0);
-        ctx.lineTo(i * size, 400);
-        ctx.stroke();
-
-        ctx.beginPath();
-        ctx.moveTo(0, i * size);
-        ctx.lineTo(400, i * size);
-        ctx.stroke();
-    }
-
-    // FOOD
-
-    ctx.fillStyle = "#ff477e";
-    ctx.shadowColor = "#ff477e";
-    ctx.shadowBlur = 15;
-
-    ctx.beginPath();
-    ctx.arc(
-        food.x * size + 10,
-        food.y * size + 10,
-        7, 0, Math.PI * 2
-    );
-    ctx.fill();
-
-    ctx.shadowBlur = 0;
-
-    // SNAKE
-
-    snake.forEach((p, i) => {
-
-        ctx.fillStyle = i === 0 ? "#ffffff" : "#00ffd5";
-
-        ctx.shadowColor = "#00ffd5";
-        ctx.shadowBlur = 10;
-
-        ctx.beginPath();
-
-        ctx.roundRect(
-            p.x * size + 2,
-            p.y * size + 2,
-            size - 4,
-            size - 4,
-            5
-        );
-
-        ctx.fill();
-
-    });
-
-    ctx.shadowBlur = 0;
-}
-
-function endGame() {
-
-    clearInterval(game);
-    running = false;
-
-    draw();
-
-    ctx.fillStyle = "rgba(0,0,0,.8)";
-    ctx.fillRect(0, 0, 400, 400);
-
-    ctx.textAlign = "center";
-    ctx.fillStyle = "#00ffd5";
-    ctx.font = "bold 28px Arial";
-
-    ctx.fillText("GAME OVER", 200, 180);
-
-    ctx.fillStyle = "white";
-    ctx.font = "16px Arial";
-
-    ctx.fillText("SCORE: " + score, 200, 220);
-}
-
-// KEYBOARD
-
-document.addEventListener("keydown", function(e) {
-
-    if (!running) return;
-
-    const key = e.key.toLowerCase();
-
-    if (key.startsWith("arrow")) {
-        e.preventDefault();
-    }
-
-    if ((key === "arrowup" || key === "w") && dy !== 1) {
-        dx = 0;
-        dy = -1;
-    }
-
-    else if ((key === "arrowdown" || key === "s") && dy !== -1) {
-        dx = 0;
-        dy = 1;
-    }
-
-    else if ((key === "arrowleft" || key === "a") && dx !== 1) {
-        dx = -1;
-        dy = 0;
-    }
-
-    else if ((key === "arrowright" || key === "d") && dx !== -1) {
-        dx = 1;
-        dy = 0;
-    }
-
-});
-
-// INITIAL SCREEN
-
-snake = [
-    {x: 10, y: 10},
-    {x: 9, y: 10},
-    {x: 8, y: 10}
-];
-
-food = {x: 15, y: 8};
-
-draw();
-
-</script>
-
-</body>
-</html>
+<!-- Pastki animatsiyali to'lqin -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" />
+</div>
