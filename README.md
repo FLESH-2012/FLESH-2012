@@ -3,15 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shahriyor%20Aminboyev&fontSize=45&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer%20%7C%20Creative%20Coder&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<!-- 100% ishlaydigan Typing animatsiyasi -->
-<div align="center">
-  <img src="./typing.svg" alt="Typing Animation" />
-</div>
-
-<br/>
-
----
-
 ### 👨‍💻 Men haqimda (About Me)
 
 Salom! Mening ismim **Shahriyor**. Men zamonaviy, tezkor va chiroyli interfeysga ega veb-saytlar yaratishga qiziqadigan **Frontend dasturchiman**. Hozirda **HTML5, CSS3 (Flexbox, Grid, Animatsiyalar)** va **JavaScript (DOM, Array metodlari, interaktiv mantiq)** bo'yicha bilimlarimni chuqurlashtirib, real loyihalar va brauzer o'yinlari ustida ishlayapman.
